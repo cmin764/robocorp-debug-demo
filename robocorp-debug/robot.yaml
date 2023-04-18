@@ -3,8 +3,8 @@
 
 tasks:
   # Task names here are used when executing the bots, so renaming these is recommended.
-  Concatenate Strings:
-    robotTaskName: Concatenate Strings
+  Simple Strings:
+    robotTaskName: Simple Strings
 
 condaConfigFile: conda.yaml
 

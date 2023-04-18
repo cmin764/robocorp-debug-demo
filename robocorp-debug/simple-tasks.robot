@@ -5,7 +5,7 @@ Library    String
 
 
 *** Tasks ***
-Concatenate Strings
+Simple Strings
     @{words} =    Split String    apple orange banana
     ${string} =    Catenate    SEPARATOR=,    @{words}
 
