@@ -1,0 +1,10 @@
+[
+  {
+      "payload": {
+         "test": "message"
+      },
+      "files": {
+          "robot-parts.xlsx": "robot-parts.xlsx"
+      }
+  }
+]
