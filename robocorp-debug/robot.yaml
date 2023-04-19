@@ -5,6 +5,8 @@ tasks:
   # Task names here are used when executing the bots, so renaming these is recommended.
   Simple Strings:
     robotTaskName: Simple Strings
+  Simple Strings Trace:
+    shell: python -m robot -d output -L TRACE --logtitle "Task log" --task "Simple Strings" simple-strings.robot
   Fill A Form:
     robotTaskName: Fill A Form
   Excel To PDF:
